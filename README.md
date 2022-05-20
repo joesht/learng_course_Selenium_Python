@@ -1,1 +1,1 @@
-# learng_course_Selenium_Python
+Здесь находятся тесты- домашние задания к курсу "Автоматизация тестирования с помощью Selenium и Python" на stepik
